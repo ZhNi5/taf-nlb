@@ -1,3 +1,5 @@
+package by.itacademy.zhiznevskaya.api;
+
 import io.restassured.http.Method;
 import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;

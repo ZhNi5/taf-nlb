@@ -1,4 +1,4 @@
-package by.itacademy.zhiznevskaya;
+package by.itacademy.zhiznevskaya.driver;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 public class Driver {

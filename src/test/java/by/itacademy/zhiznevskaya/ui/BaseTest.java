@@ -1,10 +1,8 @@
-package by.itacademy.zhiznevskaya;
+package by.itacademy.zhiznevskaya.ui;
+import by.itacademy.zhiznevskaya.driver.Driver;
 import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
+
 public class BaseTest {
 
         WebDriver driver;

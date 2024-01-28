@@ -1,9 +1,9 @@
-package by.itacademy.zhiznevskaya;
+package by.itacademy.zhiznevskaya.ui;
 
+import by.itacademy.zhiznevskaya.driver.Driver;
+import by.itacademy.zhiznevskaya.pages.NlbPage;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import java.sql.SQLOutput;
 
 public class TestUINlb extends BaseTest {
     @Test

@@ -1,5 +1,6 @@
-package by.itacademy.zhiznevskaya;
+package by.itacademy.zhiznevskaya.pages;
 
+import by.itacademy.zhiznevskaya.driver.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
