@@ -60,10 +60,10 @@ public class NlbPage {
 
     public void redirectToECatalogNlb() {
 
-        /*By ecatalogNlbLinkBy = By.xpath(ecatalogNlbLinkXpath);
+        By ecatalogNlbLinkBy = By.xpath(ecatalogNlbLinkXpath);
         WebElement ecatalogNlbLinkElement = driver.findElement(ecatalogNlbLinkBy);
         ecatalogNlbLinkElement.click();
-        */
+
     }
 
     public String enterSearchParametr(String searchParametrSendKey) {
